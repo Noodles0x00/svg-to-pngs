@@ -1,2 +1,2 @@
 # svg-to-pngs
- converts SVG to PNGscomptaible as chrome extension icons
+ converts SVG to PNGs comptaible as chrome extension icons
